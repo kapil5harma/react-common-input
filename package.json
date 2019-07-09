@@ -1,6 +1,6 @@
 {
   "name": "react-common-input",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A common react input component to be used as input, textarea, select depending on the configuration being provided.",
   "main": "index.js",
   "scripts": {
